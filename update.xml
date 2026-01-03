@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.8.0</version>
-    <url>https://github.com/MetehanDemirel/posappmarket/releases/download/1.0.6/1.0.6.zip</url>
-    <changelog>https://github.com/MetehanDemirel/posappmarket/releases/tag/1.0.6</changelog>
+    <url>https://github.com/MetehanDemirel/posappmarket/releases/download/1.0.8/1.0.8.zip</url>
+    <changelog>https://github.com/MetehanDemirel/posappmarket/releases/tag/1.0.8</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
